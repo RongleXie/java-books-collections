@@ -1,2 +1,2 @@
 # java-books-collections
-JAVA编程书籍收集分享。
+本仓库仅用于存储个人收集的JAVA相关编程书籍，如有侵权，请联系删除！！！
