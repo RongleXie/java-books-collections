@@ -1,6 +1,8 @@
 # java-books-collections
 本仓库仅用于存储个人收集的JAVA相关编程书籍，如有侵权，请联系删除！！！
 
+百度网盘链接：https://pan.baidu.com/s/17GUNlYesU6s44DxaY40pnQ 提取码：x8xz 
+
 # 推荐书单
 
 ## Java
