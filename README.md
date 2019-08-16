@@ -1,7 +1,7 @@
 # java-books-collections
 本仓库仅用于存储个人收集的JAVA相关编程书籍，如有侵权，请联系删除！！！
 
-- 百度网盘链接：https://pan.baidu.com/s/17GUNlYesU6s44DxaY40pnQ 提取码：x8xz 
+- 百度网盘链接: https://pan.baidu.com/s/1V4-ZHyqeJnBs6hWYv8baNQ 提取码: kr1u 
 - 蓝奏云链接：https://www.lanzous.com/b595444 密码:1bpn
 - 谷歌网盘链接：https://drive.google.com/drive/folders/1xFVzGpdh_d8gRnT5m0pfxTX8hlUURLsS
 
