@@ -25,6 +25,7 @@
 - [算法之美](https://book.douban.com/subject/30155731/)
 - [数据结构与算法分析](https://book.douban.com/subject/3351237/)
 - [剑指 Offer](https://book.douban.com/subject/25910559/)
+- [程序员代码面试指南 第一版](https://book.douban.com/subject/26638586/)
 
 ## 操作系统
 
